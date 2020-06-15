@@ -1,41 +1,32 @@
 {
-    "author" : [ {
-        "id": 1,
-        "age" : 16,
-        "name" : "Andy"
-      }, 
-      {
-        "id": 2,
-        "age" : 22,
-        "name" : "Lisa"
-      }
-    ],
-    "comments" : [ 
+    "productos" : [
         {
-        "id": 1,
-        "date" : "03-18-2016",
-        "message" : "Nice!"
-      },
-      {
-        "id": 2,
-        "date" : "06-21-2017",
-        "message" : "Great view!"
-      }
-    ],
-    "pictures" : [
-      {
-        "id": 1,
-        "author" : "Lisa",
-        "description" : "A wonderful view of nature",
-        "img" : "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
-        "title" : "A natural view"
-      },
-      {
-        "id": 2,
-        "author" : "Andy",
-        "description" : "Seaside sunset",
-        "img" : "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
-        "title" : "Landscape view"
-      }
+            "id": 1,
+            "sku": "00001",
+            "descripcion": "Descripción artículo 1",
+            "url_imagen": "",
+            "precio": 999.99
+        },
+        {
+            "id": 2,
+            "sku": "00002",
+            "descripcion": "Descripción artículo 2",
+            "url_imagen": "",
+            "precio": 1400
+        },
+        {
+            "id": 3,
+            "sku": "00003",
+            "descripcion": "Descripción artículo 3",
+            "url_imagen": "",
+            "precio": 1999.99
+        },
+        {
+            "id": 4,
+            "sku": "00004",
+            "descripcion": "Descripción artículo 4",
+            "url_imagen": "",
+            "precio": 2500
+        }
     ]
-  }
+}
