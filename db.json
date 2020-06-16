@@ -3,17 +3,17 @@
         {
             "id": 1,
             "sku": "00001",
-            "descripcion": "Descripción artículo 1",
-            "descrip_detallada": "Descripción detallada de las características principales del artículo 1",
-            "url_imagen": "",
-            "precio": 999.99
+            "descripcion": "Motherboard Asus Rog Strix Z390-e Gaming Intel 1151",
+            "descrip_detallada": "Socket LGA1151 para la 9ª/8ª - generación de procesadores Intel® Core. Aura Sync RGB: Sincroniza la iluminación RGB con una amplia gama de equipos para PC compatibles y tiras RGB direccionables Enfriamiento: Dos disipadores M.2, cabezal para bomba de agua, cabezal para extensión de ventiladores y un ventilador MOS con soporte 5-Way Optimization: Ajuste automatizado para tu sistema, que proporciona overclock inteligente y perfiles de enfriamiento hechos a medida para tu equipo. Conectividad: Doble M.2 y conectores USB 3.1 Gen 2 Tipo-A y Tipo-C Redes gaming: Intel Gigabit Ethernet, CNVi 2x2 802.11ac Intel Wi-Fi integrado con soporte MU-MIMO, LANGuard y GameFirst",
+            "url_imagen": "https://http2.mlstatic.com/motherboard-asus-rog-strix-z390-e-gaming-intel-1151-mexx-D_NQ_NP_735915-MLA31116022554_062019-F.webp",
+            "precio": 37999.00
         },
         {
             "id": 2,
             "sku": "00002",
-            "descripcion": "Descripción artículo 2",
+            "descripcion": "Teclado",
             "descrip_detallada": "Descripción detallada de las características principales del artículo 2",
-            "url_imagen": "",
+            "url_imagen": "https://www.mylshop.com.ar/wp-content/uploads/2019/07/CP-LOGITECH-920-004422-1.jpg",
             "precio": 1400
         },
         {
