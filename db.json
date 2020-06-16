@@ -27,10 +27,10 @@
         {
             "id": 4,
             "sku": "00004",
-            "descripcion": "Descripción artículo 4",
-            "descrip_detallada": "Descripción detallada de las características principales del artículo 4",
-            "url_imagen": "",
-            "precio": 2500
+            "descripcion": "Motherboard Gigabyte Z490 Gaming X Socket 1200 Ddr4 10ma Gen",
+            "descrip_detallada": "Apoyo a la décima generación Intel ® Core ™ i9 procesadores / Intel ® Core ™ i7 / Intel ® Core ™ i5 procesadores / Intel ® Core ™ i3 procesadores / Intel ® Pentium ® procesadores / Intel ® Celeron ® procesadores en el paquete LGA1200. Chipset Intel ® Express Chipset Z490",
+            "url_imagen": "https://http2.mlstatic.com/motherboard-gigabyte-z490-gaming-x-socket-1200-ddr4-10ma-gen-D_NQ_NP_973169-MLA42168319964_062020-F.webp",
+            "precio": 30999.00
         }
     ]
 }
