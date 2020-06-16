@@ -11,18 +11,18 @@
         {
             "id": 2,
             "sku": "00002",
-            "descripcion": "Teclado",
-            "descrip_detallada": "Descripción detallada de las características principales del artículo 2",
-            "url_imagen": "https://www.mylshop.com.ar/wp-content/uploads/2019/07/CP-LOGITECH-920-004422-1.jpg",
-            "precio": 1400
+            "descripcion": "Motherboard Msi X570 Gaming Plus Amd Am4 Ddr4 Usb 3",
+            "descrip_detallada": "Dándoles a los gamers lo que realmente necesitan, MPG X570 GAMING PLUS está equipada con el Diseño de Disipador Extendido, Diseño de Disipador Frozr, Core boost, Lightning Gen4 M.2, M.2 Shield Frozr accesorio, Turbo USB y el nuevo Dragon Center de MSI.",
+            "url_imagen": "https://http2.mlstatic.com/motherboard-msi-x570-gaming-plus-amd-am4-ddr4-usb-3-mexx-D_NQ_NP_811526-MLA31838641474_082019-F.webp",
+            "precio": 29999.00
         },
         {
             "id": 3,
             "sku": "00003",
-            "descripcion": "Descripción artículo 3",
-            "descrip_detallada": "Descripción detallada de las características principales del artículo 3",
-            "url_imagen": "",
-            "precio": 1999.99
+            "descripcion": "Combo Actualización Gamer Intel I5 9400 H310 8gb",
+            "descrip_detallada": "Este combo mother micro y memoria Ram son perfectos para actualizar su pc, es ideal para oficinas, uso hogareño y para juegos modernos gracias a su procesador de última generación. Esta configuración está acompañada por una motherboard H310 y 8 Gb de memoria ram ddr4, estos componentes sumado al procesador Intel i5 9400 hacen de este una gran combinación para todo tipo de usuarios",
+            "url_imagen": "https://http2.mlstatic.com/combo-actualizacion-gamer-intel-i5-9400-h310-8gb-D_NQ_NP_601673-MLA31632531255_072019-F.webp",
+            "precio": 35997.00
         },
         {
             "id": 4,
